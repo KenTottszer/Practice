@@ -1,0 +1,2 @@
+# odin-recipes
+This is my first official project! I am creating a website, only using HTML, which showcases a homepage and three links to seperate recipes. Altogether I found the process relatively easy, the hardest points being when I had to remember commands using Linux and a few of the HTML tags. Once I grasped that, however, I breezed through this challenge. I am ready for the next steps.

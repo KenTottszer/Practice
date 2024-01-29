@@ -1,0 +1,48 @@
+* {
+    font-family: "Monaco", "monospace";
+    background-color: rgb(105, 210, 210);
+}
+
+.main-title {
+    text-align: center;
+    font-size: 50px;
+    font-weight: 800;
+}
+
+.main-links {
+    text-align: center;
+    font-size: 28px;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+    height: 500px;
+}
+
+.recipe-title, .link {
+    color: rgb(27, 108, 37);
+}
+
+.recipe-title {
+    text-align: center;
+    font-weight: 600;
+    font-size: 30px;
+}
+
+.body-title {
+    font-weight: bold;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.home-link, .main-title {
+    color: rgb(157, 50, 50);
+}
+
+.home-link {
+    font-size: 18px;
+}
+

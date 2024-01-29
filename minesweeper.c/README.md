@@ -6,3 +6,6 @@ MINESWEEPER
         measuring the time elapsed,
         marking cells by the player where a mine is suspected,
         automatic revealing of mine-free regions.
+
+
+Az elso egyetemi projektem a C nyelvben.

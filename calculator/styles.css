@@ -1,0 +1,55 @@
+h1 {
+    display: flex;
+    justify-content: center;
+    color: darkblue;
+}
+.mainContainer{
+    display: flex;
+    justify-content: center;
+}
+.calcContainer {
+    border-color: darkblue;
+    border-style: solid;
+    border-width: 10px;
+}
+
+.outputBox {
+    display: flex;
+    justify-content: center;
+}
+.outputContent {
+    width: 400px;
+    height: 100px;
+    background-color: lightgoldenrodyellow;
+    color: darkblue;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.firstRow, .secondRow, .thirdRow, .fourthRow, .fifthRow {
+    display: flex;
+    justify-content: center;
+}
+.b{
+    height: 100px;
+    width: 100px;
+}
+
+.bDelete{
+    font-size: 40px;
+}
+
+.bClear, .b0 {
+    width: 200px;
+}
+
+.tag {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    margin: 10px;
+    color: darkblue; 
+    font-size: 14px;
+}

@@ -1,7 +1,7 @@
 
 
 Elso javscript projektem, amire visszamentem, amikor akartam disziteni CSS-sel es HTML-lel.
-Ezalatt a uzenet alatt talalhato az utasitasok a programhoz.
+Ezalatt a uzenet alatt talalhatoak az utasitasok a programhoz.
 
 Create a blank HTML document with a script tag (Hint: it is best practice to link an external .js file). This game is going to be played completely from the console, so don’t worry about putting anything else in there.
 
